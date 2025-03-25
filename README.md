@@ -5,9 +5,11 @@
 ## 🎯 Project Goals
 
 There are countless ways to play the same chord on a guitar — but not all are practical in context. 
+
 Jumping from a chord on the 1st fret to one on the 11th? Not ideal.
 
-This project automates the annotation of guitar tabs by extracting finger positions, fret positions, and fret offsets. 
+This project automates the annotation of guitar tabs by extracting finger positions, fret positions, and fret offsets.
+
 These annotations will support a separate project that suggests the most playable chord variations for any given sequence — making transitions smoother and more intuitive.
 
 ## 📌 Overview
