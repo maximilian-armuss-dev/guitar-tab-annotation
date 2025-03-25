@@ -1,0 +1,24 @@
+name: tab-annotation
+channels:
+# Pytorch needs to be the prioritized channel (on top) to avoid package conflicts
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pytorch
+  - pytorch-lightning
+  - torchvision
+  - pytorch-cuda==12.1
+  - pandas
+  - pdf2image
+  - pillow
+  - notebook
+  - tensorboard
+  - matplotlib
+  - huggingface_hub
+  - jupyter
+  - safetensors
+  - protobuf==3.20
+  - cudatoolkit
+  - cudnn
